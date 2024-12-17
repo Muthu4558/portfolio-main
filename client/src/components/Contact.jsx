@@ -26,7 +26,7 @@ const Contact = () => {
 
         try {
             // Send form data to the backend API
-            const response = await axios.post("http://localhost:5000/api/contact", formData);
+            const response = await axios.post("https://portfolio-server-lgme.onrender.com", formData);
 
             // Show success popup
             if (response.status === 200) {
