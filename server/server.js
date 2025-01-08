@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 
 // CORS Configuration
 const corsOptions = {
-  origin: process.env.FRONTEND_URL || "http://localhost:3000", // Frontend URL
+  origin: "https://portfolio-client-kupr.onrender.com", // Frontend URL
   methods: "GET,POST",
   credentials: true,
 };
