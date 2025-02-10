@@ -37,8 +37,8 @@ const Header = () => {
         <div className='mt-10 flex gap-10'>
           {/* Download CV Button */}
           <a
-            href="wd-Resume-1726478315021-Resume.pdf"
-            download="wd-Resume-1726478315021-Resume.pdf"
+            href="Muthu-Resume (MERN).pdf"
+            download="Muthu-Resume (MERN).pdf"
             className='bg-orange-700 text-lg text-white font-semibold rounded-md py-3 px-5'
           >
             Download CV
