@@ -12,7 +12,8 @@ import {
   project4,
   project5,
   project6,
-  project7
+  project7,
+  project8
 } from "./assets";
 
 export const tools = [
@@ -86,6 +87,13 @@ export const projects = [
     cat: "Visit Dashboard",
     url: "https://tm-main-client.onrender.com",
     img: project1,
+  },
+   {
+    id:8,
+    title: "Medical Chat Bot",
+    cat: "Visit Bot",
+    url: "https://muthu4558.github.io/Medical-chatbot-Nizzy/",
+    img: project8,
   },
   {
     id: 7,
