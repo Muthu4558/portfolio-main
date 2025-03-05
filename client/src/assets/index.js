@@ -21,5 +21,6 @@ export { default as project4 } from "./work/project4.png";
 export { default as project5 } from "./work/project5.png";
 export { default as project6 } from "./work/project6.png";
 export { default as project7 } from "./work/project7.png";
+export { default as project8 } from "./work/project8.png";
 
 export { default as Profile } from "./profile.png";
